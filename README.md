@@ -90,16 +90,35 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vitoreyki/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vitoreyki/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/vitoreyki/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/vitoreyki" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+  <!-- Portfólio/Site -->
+<!--   <a href="https://seusite.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=safari&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Portfólio" />
+  </a> -->
+  <!-- E-mail -->
+  <a href="mailto:vitorakutsu@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="E-mail" />
   </a>
 </div>
+
 
 ###
 
 <img src="https://raw.githubusercontent.com/vitoreyki/vitoreyki/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
