@@ -81,7 +81,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="golang logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" height="30" alt="next logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next logo"  />
   <img width="12" />
 </div>
 
@@ -120,6 +120,7 @@
 <img src="https://raw.githubusercontent.com/vitoreyki/vitoreyki/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
