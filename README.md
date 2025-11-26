@@ -2,7 +2,7 @@
 
 ###
 
-👨🏻‍💻 Working as a Full-stack Developer at [**RubCube**](https://www.rubcube.com/)
+👨🏻‍💻 Working as a Full-stack Developer
 
 👨‍🎓 Graduating as a Computer Scientist from [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
@@ -120,6 +120,7 @@
 <img src="https://raw.githubusercontent.com/vitoreyki/vitoreyki/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
