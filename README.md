@@ -14,14 +14,16 @@
 
 ###
 
-<div align="center">
+<div align="center" style="width: 100;">
   <img align="left" width="150" src="https://media.tenor.com/3NP3M9aViooAAAAi/duck-waddling.gif"  />
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=vitoreyki&theme=dracula&hide_border=false' height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoreyki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+</br>
+
 ###
-<div align="left" width="100%" style="display: flex; flex-direction: row">
+<div align="left" style="width: 100;">
   <!-- ================= BACKEND ================= -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="30" alt="nestjs logo" />
   <img width="12" />
@@ -120,6 +122,7 @@
 <img src="https://raw.githubusercontent.com/vitoreyki/vitoreyki/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
